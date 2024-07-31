@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Mock logging in"""
-
+"""
+Mock logging in - Flask app with user authentication and internationalization.
+"""
 from flask import Flask, render_template, request, g
-from flask_babel import Babel, _
-
+from flask_babel import Babel, gettext as _
 
 app = Flask(__name__)
 babel = Babel(app)

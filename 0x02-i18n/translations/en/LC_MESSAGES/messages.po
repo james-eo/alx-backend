@@ -5,6 +5,24 @@
 #
 msgid "current_time_is"
 msgstr "The current time is %(current_time)s."
+
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Welcome to Holberton"
+msgstr "Welcome to Holberton"
+
+msgid "Hello world!"
+msgstr "Hello world!"
+
+msgid "You are logged in as %(username)s."
+msgstr "You are logged in as %(username)s."
+
+msgid "You are not logged in."
+msgstr "You are not logged in."
+
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-07-30 16:26+0100\n"
